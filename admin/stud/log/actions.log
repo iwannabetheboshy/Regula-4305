@@ -1,0 +1,3 @@
+[16 November 2016 13:03:25][sqlstate: 42000][code: 2812] [Microsoft][SQL Server Native Client 11.0][SQL Server]Could not find stored procedure 'sp_sel_Sessions'.
+[04 December 2016 18:46:45][sqlstate: 01000][code: 8625] [Microsoft][SQL Server Native Client 11.0][SQL Server]Внимание! Порядок данного соединения был выбран принудительно, поскольку использовалась подсказка локального соединения.
+[04 December 2016 18:47:45][sqlstate: 01000][code: 8625] [Microsoft][SQL Server Native Client 11.0][SQL Server]Внимание! Порядок данного соединения был выбран принудительно, поскольку использовалась подсказка локального соединения.
