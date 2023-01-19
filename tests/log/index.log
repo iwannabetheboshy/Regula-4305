@@ -1,0 +1,4 @@
+[27 March 2017 15:56:27][sqlstate: 28000][code: 18456] [Microsoft][SQL Server Native Client 11.0][SQL Server]Ошибка входа пользователя "VfrtaTrainers".
+[27 March 2017 15:56:27][sqlstate: 42000][code: 4060] [Microsoft][SQL Server Native Client 11.0][SQL Server]Не удается открыть базу данных "VFRTATrainers", запрашиваемую именем входа. Не удалось выполнить вход.
+[27 March 2017 15:56:27][sqlstate: 28000][code: 18456] [Microsoft][SQL Server Native Client 11.0][SQL Server]Ошибка входа пользователя "VfrtaTrainers".
+[27 March 2017 15:56:27][sqlstate: 42000][code: 4060] [Microsoft][SQL Server Native Client 11.0][SQL Server]Не удается открыть базу данных "VFRTATrainers", запрашиваемую именем входа. Не удалось выполнить вход.
