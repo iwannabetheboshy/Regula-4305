@@ -1,0 +1,17 @@
+[03 December 2016 11:19:41][sqlstate: 23000][code: 515] [Microsoft][SQL Server Native Client 11.0][SQL Server]Не удалось вставить значение NULL в столбец "PreviewPath", таблицы "VFRTATrainers.dbo.ImagesPreview"; в столбце запрещены значения NULL. Ошибка в INSERT.
+[03 December 2016 11:19:41][sqlstate: 01000][code: 3621] [Microsoft][SQL Server Native Client 11.0][SQL Server]Выполнение данной инструкции было прервано.
+[03 December 2016 11:23:15][sqlstate: 23000][code: 515] [Microsoft][SQL Server Native Client 11.0][SQL Server]Не удалось вставить значение NULL в столбец "PreviewPath", таблицы "VFRTATrainers.dbo.ImagesPreview"; в столбце запрещены значения NULL. Ошибка в INSERT.
+[03 December 2016 11:23:15][sqlstate: 01000][code: 3621] [Microsoft][SQL Server Native Client 11.0][SQL Server]Выполнение данной инструкции было прервано.
+[03 December 2016 11:23:16][sqlstate: 23000][code: 515] [Microsoft][SQL Server Native Client 11.0][SQL Server]Не удалось вставить значение NULL в столбец "PreviewPath", таблицы "VFRTATrainers.dbo.ImagesPreview"; в столбце запрещены значения NULL. Ошибка в INSERT.
+[03 December 2016 11:23:16][sqlstate: 01000][code: 3621] [Microsoft][SQL Server Native Client 11.0][SQL Server]Выполнение данной инструкции было прервано.
+[03 December 2016 11:23:17][sqlstate: 23000][code: 515] [Microsoft][SQL Server Native Client 11.0][SQL Server]Не удалось вставить значение NULL в столбец "PreviewPath", таблицы "VFRTATrainers.dbo.ImagesPreview"; в столбце запрещены значения NULL. Ошибка в INSERT.
+[03 December 2016 11:23:17][sqlstate: 01000][code: 3621] [Microsoft][SQL Server Native Client 11.0][SQL Server]Выполнение данной инструкции было прервано.
+[03 December 2016 11:23:30][sqlstate: 23000][code: 515] [Microsoft][SQL Server Native Client 11.0][SQL Server]Не удалось вставить значение NULL в столбец "PreviewPath", таблицы "VFRTATrainers.dbo.ImagesPreview"; в столбце запрещены значения NULL. Ошибка в INSERT.
+[03 December 2016 11:23:30][sqlstate: 01000][code: 3621] [Microsoft][SQL Server Native Client 11.0][SQL Server]Выполнение данной инструкции было прервано.
+[03 December 2016 11:25:06][sqlstate: 23000][code: 515] [Microsoft][SQL Server Native Client 11.0][SQL Server]Не удалось вставить значение NULL в столбец "PreviewPath", таблицы "VFRTATrainers.dbo.ImagesPreview"; в столбце запрещены значения NULL. Ошибка в INSERT.
+[03 December 2016 11:25:06][sqlstate: 01000][code: 3621] [Microsoft][SQL Server Native Client 11.0][SQL Server]Выполнение данной инструкции было прервано.
+[03 December 2016 11:26:57][sqlstate: 23000][code: 515] [Microsoft][SQL Server Native Client 11.0][SQL Server]Не удалось вставить значение NULL в столбец "PreviewPath", таблицы "VFRTATrainers.dbo.ImagesPreview"; в столбце запрещены значения NULL. Ошибка в INSERT.
+[03 December 2016 11:26:57][sqlstate: 01000][code: 3621] [Microsoft][SQL Server Native Client 11.0][SQL Server]Выполнение данной инструкции было прервано.
+[03 December 2016 14:32:58][sqlstate: IMSSP][code: -14] An invalid parameter was passed to sqlsrv_query.
+[03 December 2016 14:32:59][sqlstate: IMSSP][code: -14] An invalid parameter was passed to sqlsrv_query.
+[03 December 2016 14:33:00][sqlstate: IMSSP][code: -14] An invalid parameter was passed to sqlsrv_query.
