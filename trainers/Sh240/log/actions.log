@@ -1,0 +1,2 @@
+[09 December 2016 13:17:15][sqlstate: 23000][code: 515] [Microsoft][SQL Server Native Client 11.0][SQL Server]Не удалось вставить значение NULL в столбец "IdSession", таблицы "VFRTATrainers.dbo.StudentActivitiHist"; в столбце запрещены значения NULL. Ошибка в INSERT.
+[09 December 2016 13:17:15][sqlstate: 01000][code: 3621] [Microsoft][SQL Server Native Client 11.0][SQL Server]Выполнение данной инструкции было прервано.

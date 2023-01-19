@@ -1,0 +1,379 @@
+.mobiDick
+{
+	background-image: url(../../../images/Sh240/icons/mobiDick_224.png);
+	width: 100%;
+	height: 362px;
+	background-repeat: no-repeat;
+	background-position-x: center;
+	background-size: contain;
+	display: inline-block;
+}
+
+.panel
+{	
+	width: 220px;
+	height: calc(100% - 70px);
+	overflow: auto;
+	overflow-x: hidden;
+	position: fixed;
+	right: 0px;
+	text-align: center;
+	border: 3px ridge #eaeaea;
+	background: #fff;
+	/*outline: 1px solid #f44242;*/
+}
+
+.panel p
+{	
+	text-align: center;
+    font-size: 15px;
+    margin: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+.panel h4
+{	
+    margin: 3px;
+    font-size: 14px;
+}
+
+.field
+{
+	background: #fff;
+	border: 1px solid #000;
+	margin: 1px 1px 1px 0px;
+	padding: 1px;
+    font-size: 15px;
+    height: 19px;
+}
+
+.quality_text
+{
+	margin:	1px 1px 20px 0px
+}
+
+.sliders
+{
+	text-align: left;
+}
+
+#slider1
+{
+	margin-left: 15px;
+    margin-right: 6px;
+}
+
+#contrSlider
+{
+	margin-left: 15px;
+    margin-right: 6px;
+}
+
+#brigtSlider
+{
+	margin-left: 15px;
+    margin-right: 6px;
+}
+
+.albom
+{
+	background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+.btn 
+{
+	background-color: #f6f6f6;
+    border-color: #ddd;
+    color: #333;
+    text-shadow: 0 1px 0 #f3f3f3;
+
+    font-size: 16px;
+    margin: .1em 0; 
+    padding: 0.9em 1em;
+    display: block;
+    position: relative;
+    text-align: center;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.pbtn
+{
+	border-radius: 0px;
+	/*outline: 1px solid #f44242;*/
+	cursor: pointer;
+}
+
+.panel .top
+{
+	margin-top: 3.8%;
+	height: 12%;
+	font-size: 0;
+	/*outline: 1px solid #f44242;*/
+}
+
+.top .start
+{
+	margin-left: 4%;
+	width: 43%;
+	height: 100%;
+	display: inline-block;
+}
+
+.top .stop
+{
+	margin-left: 4%;
+	margin-right: 2%;
+	width: 42%;
+	height: 100%;
+	display: inline-block;
+}
+
+.panel .middle1
+{
+	width: 100%;
+	margin-top: 6.2%;
+	height: 9%;
+	display: inline-block;
+	font-size: 0;
+	/* outline: 1px solid #f44242; */
+}
+
+.middle1 .mbtn
+{
+	border-radius: 0px;
+	/*outline: 1px solid #f44242;*/
+	cursor: pointer;
+	width: 21.5%;
+	height: 100%;
+}
+
+.middle1 .quality
+{
+	margin-left: 2%;
+	display: inline-block;
+}
+
+.middle1 .save {
+    margin-left: 3%;
+    display: inline-block;
+}
+
+.middle1 .open
+{
+	margin-left: 3%;
+	display: inline-block;
+}
+
+.middle1 .delete
+{
+	margin-left: 3%;
+	display: inline-block;
+}
+
+.panel .middle2
+{
+	width: 100%;
+	margin-top: 6.2%;
+	height: 13%;
+	display: inline-block;
+	font-size: 0;
+	/*outline: 1px solid #f44242;*/
+}
+
+.middle2 .mbtn
+{
+	border-radius: 0px;
+	/*outline: 1px solid #f44242;*/
+	cursor: pointer;
+	width: 21.5%;
+	height: 100%;
+}
+
+.middle2 .psevdo
+{
+	margin-left: 2%;
+	display: inline-block;
+}
+
+.middle2 .relief {
+    margin-left: 3%;
+    display: inline-block;
+}
+
+.middle2 .filtr
+{
+	margin-left: 3%;
+	display: inline-block;
+}
+
+.middle2 .grid
+{
+	margin-left: 3%;
+	display: inline-block;
+}
+
+.panel .middle3
+{
+	width: 100%;
+	margin-top: 3.2%;
+	height: 13%;
+	display: inline-block;
+	font-size: 0;
+	/*outline: 1px solid #f44242;*/
+}
+
+.middle3 .mbtn
+{
+	border-radius: 0px;
+	/*outline: 1px solid #f44242;*/
+	cursor: pointer;
+	width: 21.5%;
+	height: 100%;
+}
+
+.middle3 .negativ
+{
+	margin-left: 2%;
+	display: inline-block;
+}
+
+.middle3 .loupe {
+    margin-left: 3%;
+    display: inline-block;
+
+}
+
+.on
+{
+    position: absolute;
+    color: #00ff2b;
+    font-size: 17px;
+    font-family: cursive;
+    text-shadow: 1px 1px 0 #000000;
+}
+
+.middle3 .roi
+{
+	margin-left: 3%;
+	display: inline-block;
+}
+
+.middle3 .contrast
+{
+	margin-left: 3%;
+	display: inline-block;
+}
+
+.bottom1
+{
+	width: 100%;
+    margin-top: 1.2%;
+    height: 28%;
+    display: inline-block;
+    font-size: 0;
+    /*outline: 1px solid #f44242;*/
+}
+
+.bottom1 .left
+{
+	width: 30%;
+	height: 100%;
+	/*outline: 1px solid #f44242;*/
+	display: inline-block;
+	margin-left: 4%;
+}
+
+.bottom1 .updown
+{
+	width: 26%;
+	height: 100%;
+	/*outline: 1px solid #f44242;*/
+	display: inline-block;
+}
+
+.bottom1 .up
+{
+	width: 100%;
+	height: 50%;
+	/*outline: 1px solid #f44242;*/
+}
+
+.bottom1 .right
+{
+	margin-right: 4%;
+	width: 30%;
+	height: 100%;
+	/*outline: 1px solid #f44242;*/
+	display: inline-block;
+}
+
+.bottom1 .down
+{
+	width: 100%;
+	height: 50%;
+	/*outline: 1px solid #f44242;*/
+}
+
+.bottom2
+{
+    width: 100%;
+    margin-top: 3.2%;
+    height: 10%;
+    display: inline-block;
+    font-size: 0;
+    /*outline: 1px solid #f44242;*/
+}
+
+.bottom2 .okey
+{
+	margin-left: 4%;
+	width: 43%;
+	height: 100%;
+	display: inline-block;
+}
+
+.bottom2 .cancel
+{
+	margin-left: 4%;
+	margin-right: 2%;
+	width: 42%;
+	height: 100%;
+	display: inline-block;
+}
+
+.pbtn { 
+	transition: 0.3s ease-out 0s; 
+}
+
+.pbtn:hover 
+{ 
+	background: rgba(156, 24, 24, 0.18);
+	/*box-shadow: 0 0 12px 0 #188e9c inset; */
+}
+
+.active 
+{ 
+	background: rgba(0, 197, 34, 0.3);
+	/*box-shadow: 0 0 12px 0 #188e9c inset; */
+}
+
+.redbtn { 
+	transition: 0.3s ease-out 0s; 
+}
+
+.redbtn:hover 
+{ 
+	background: rgba(255, 0, 0, 0.26);
+	/*box-shadow: 0 0 12px 0 #e60725 inset*/
+}

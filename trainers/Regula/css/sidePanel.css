@@ -1,0 +1,109 @@
+.PnlClosedBumblebee
+{
+    z-index:1000;
+    cursor:pointer;
+    display: block;
+    margin: 100 auto 0 auto;
+}
+
+.DragalebleElement
+{
+    position:absolute;
+    z-index:1002;
+    cursor: move;
+}
+
+#CurrencyFiveK_perspective {
+    position: absolute;
+    top: 560px;
+    left: 100px;
+    width: 91px;
+}
+
+#CurrencyOneK_perspective {
+    position: absolute;
+    top: 560px;
+    left: 100px;
+    width: 91px;
+}
+
+#MonitorPower {
+    width: 150px;
+    top: 107px;
+    position: absolute;
+    left: 5px;
+}
+
+#ComputerPower {
+    position: absolute;
+    top: 249px;
+    left: 220px;
+    width: 130px;
+}
+
+#CurrencyOneK {
+    width: 137px;
+    left: 230px;
+    top: 739px;
+}
+
+#CurrencyFiveK {
+    width: 137px;
+    left: 56px;
+    top: 707px;
+}
+
+#BumbleBeeNotebookCaseClosed {
+    position: absolute;
+    width: 220px;
+    top: 380px;
+    left: 35px; 
+    cursor: pointer;
+}
+
+#ReverseComporatorButton{
+    position: absolute;
+    width: 45px;
+    top: 390px;
+    left: 45px; 
+	z-index: 1111;
+    cursor: pointer;
+}
+
+.notebook {
+    position: absolute;
+    width: 220px;
+    top: 380px;
+    left: 35px; 
+    cursor: pointer;
+}
+
+.buttonOreol
+{
+    overflow:hidden;
+    position:absolute;
+    border-radius: 35px;
+    border: 2px solid black;
+}
+
+.buttonOreol img 
+{
+    width: 70px;
+    height: 70px;
+    cursor: pointer;
+}
+
+.buttonBigOreol
+{
+    overflow:hidden;
+    position:absolute;
+    border-radius: 85px;
+    border: 2px solid black;
+}
+
+.buttonBigOreol img 
+{
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+}

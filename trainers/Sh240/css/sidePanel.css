@@ -1,0 +1,100 @@
+.PnlClosedBumblebee
+{
+    z-index:1000;
+    cursor:pointer;
+    display: block;
+    margin: 100 auto 0 auto;
+}
+
+.DragalebleElement
+{
+    position:absolute;
+    z-index:1002;
+    cursor: move;
+}
+
+#reseiver_assembled {
+    position: absolute;
+    top: 70px;
+    left: 5px;
+    width: 91px;
+}
+
+#sender_assembled , #sender_assembled_rad {
+    position: absolute;
+    top: 105px;
+    left: 270px;
+    width: 91px;
+}
+
+#receiver_tripod {
+    width: 90px;
+    top: 107px;
+    position: absolute;
+    left: 5px;
+}
+
+#sender_tripod {
+    position: absolute;
+    top: 149px;
+    left: 270px;
+    width: 88px;
+}
+
+#sender_unpacked {
+    width: 81px; 
+    left: 230px;
+    top: 339px;
+}
+
+#reseiver_unpacked {
+    width: 37px;
+    left: 56px;
+    top: 307px;
+}
+
+#BumbleBeeNotebookCaseClosed {
+    position: absolute;
+    width: 100px;
+    top: 330px;
+    left: 120px; 
+    cursor: pointer;
+}
+
+.notebook {
+    position: absolute;
+    width: 100px;
+    top: 262px;
+    left: 120px; 
+    cursor: pointer;
+}
+
+.buttonOreol
+{
+    overflow:hidden;
+    position:absolute;
+    border-radius: 35px;
+    border: 2px solid black;
+}
+
+.buttonOreol img 
+{
+    width: 70px;
+    height: 70px;
+    cursor: pointer;
+}
+
+.buttonBigOreol
+{
+    overflow:hidden;
+    position:absolute;
+    border-radius: 85px;
+    border: 2px solid black;
+}
+
+.buttonBigOreol img 
+{
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+}
